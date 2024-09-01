@@ -1,6 +1,6 @@
 <h1>Sobre o desafio</h1>
 <p>
- Utilizei a Linguagem de programação <b>Java<b/> feito pelo <b>Visual Studio Code.</b>
+ Utilizei a Linguagem de programação <b>Java,<b/> feito pelo Visual Studio Code.
 </p>
 
 <h3> Sobre os códigos:</h3>
